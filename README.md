@@ -5,4 +5,4 @@ Contributors: David Bill (major), Jochen Kieninger (minor)
 
 Contact: Dr. Jochen Kieninger, kieninger@imtek.uni-freiburg.de
 
-This repository was moved to [IMTEK-FreiStat](https://github.com/IMTEK-FreiStat)
+**This repository was moved to [IMTEK-FreiStat](https://github.com/IMTEK-FreiStat)**
